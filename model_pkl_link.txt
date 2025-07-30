@@ -1,0 +1,1 @@
+| [`model.pkl`](https://drive.google.com/uc?export=download&id=1MeXFBfLorsLby9tL5NvxVtJ3hufmd31_) | The serialized machine learning model (hosted on Google Drive) |
